@@ -1,0 +1,7 @@
+[{
+  "urlSMTP":"smtp.gmail.com:587",
+  "passwd" : "xxx",
+  "mail_from" : "abc@gmail.com",
+  "receivers" : ["abc@gmail.com","def@yahoo.com.tw"]
+}
+]
